@@ -20,11 +20,22 @@ Not here to impress anyone.
 
 ---
 
+### Things I've shipped
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://muammar-jsx.netlify.app)
+[![PPE Website](https://img.shields.io/badge/PPE_Website-0057A8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ppe-iq.com)
+[![Deprekated](https://img.shields.io/badge/Deprekated-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deprekated.com)
+[![Eloria](https://img.shields.io/badge/Eloria-6C3FC5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eloria.deprekated.com)
+
+---
+
 ### Reach me at
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muammar-jsx/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muammarm.abdullah@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://muammar-jsx.netlify.app/)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/muammar-jsx)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@muammaruiux)
 
 ---
 
@@ -38,6 +49,7 @@ Not here to impress anyone.
 
 **Frameworks & Tools**
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white&labelColor=gray)
