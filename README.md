@@ -1,55 +1,53 @@
-## hi.
+## Hi.
 
-i'm **Muammar Mohammed Abdullah Al-Ghrairi** — a Master of Software Engineering student who mostly exists online and occasionally ships things that work.
+I'm **Muammar Mohammed Abdullah Al-Ghrairi** — a Master of Software Engineering student who mostly exists online and occasionally ships things that work.
 
-not here to impress anyone.
-
----
-
-🌍 **currently working on:** freelancing. client says yes, scope says otherwise.
-
-📚 **currently learning:** social media buying. it's not glamorous but it pays attention.
-
-🤝 **open to collaborating on:** things that are actually useful. prefer async. prefer no meetings.
-
-🔍 **looking for help with:** staying consistent. that's it.
-
-💬 **ask me about:** why your frontend looks fine on your machine but broken everywhere else.
-
-⚡ **fun fact:** i find it easier to read documentation than to start a conversation.
+Not here to impress anyone.
 
 ---
 
-📫 **reach me at:**
-[muammarm.abdullah@gmail.com](mailto:muammarm.abdullah@gmail.com)
-[muammar-jsx.netlify.app](https://muammar-jsx.netlify.app/)
+🌍 **Currently working on:** Freelancing. Client says yes, scope says otherwise.
+
+📚 **Currently learning:** How to build startups. Turns out shipping code is the easy part.
+
+🤝 **Open to collaborating on:** Things that are actually useful. Prefer async. Prefer no meetings.
+
+🔍 **Looking for help with:** Staying consistent. That's it.
+
+💬 **Ask me about:** Why your frontend looks fine on your machine but broken everywhere else.
+
+⚡ **Fun fact:** I find it easier to read documentation than to start a conversation.
 
 ---
 
-### what i work with
+### Reach me at
 
-**languages**
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**frameworks & tools**
-
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-**editors**
-
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-Antigravity
-
-**os**
-
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muammar-jsx/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muammarm.abdullah@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://muammar-jsx.netlify.app/)
 
 ---
 
-*thanks for stopping by. you probably found this by accident.*
+### What I work with
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+
+**Frameworks & Tools**
+
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white&labelColor=gray)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**Editors & OS**
+
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+---
+
+_Thanks for stopping by. You probably found this by accident._
