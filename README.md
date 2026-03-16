@@ -31,6 +31,8 @@ Not here to impress anyone.
 
 ### Reach me at
 
+<img src="me.jpg" width="100" style="border-radius: 8px;" />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muammar-jsx/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muammarm.abdullah@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://muammar-jsx.netlify.app/)
